@@ -1,6 +1,6 @@
 ### Hi there, I'm **Venkatesh Kumawat**! 👋🚀  
 
-![Profile Banner](https://avatars.githubusercontent.com/u/120731943?v=4)
+![Profile Banner](https://cdn.leonardo.ai/users/b482dcdc-754f-4bc8-a927-7563c8825c7e/generations/d32212f6-33ff-478b-8335-f03e52ec8dcf/segments/2:4:1/Flux_Dev_Create_a_modern_techinspired_logo_design_for_Venkora__1.jpeg)
 
 💡 Passionate **Senior Web Developer** & **Cloud Enthusiast**, specializing in **MERN Stack, AWS, UI/UX Design, and Cybersecurity**. My mission is to craft **immersive digital experiences** and drive business success through **cutting-edge technologies**.
 
