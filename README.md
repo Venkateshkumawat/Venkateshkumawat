@@ -86,7 +86,8 @@ A mobile application with **profile creation, onboarding, document uploads, and 
 - **Active Repositories:** 10+
 - **Languages Used:** JavaScript, TypeScript, Python, Java
 
-![Bitbucket Commits](https://img.shields.io/badge/Bitbucket-Commits-5000%2B-blue?style=for-the-badge&logo=bitbucket)
+![Bitbucket Commits](https://img.shields.io/badge/Bitbucket%20Commits-5000%2B-blue?style=for-the-badge&logo=bitbucket)
+
 
 ---
 
