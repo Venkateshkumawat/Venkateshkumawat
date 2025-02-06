@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🏢 Founder of **[Futurist Codex](https://your-website-url.com)** | Software & Cloud Services
+- 🏢 Founder of **[Venkora Labs](https://your-website-url.com)** | Software & Cloud Services
 - 🌍 Building **Engage AI – Social Engagement Dashboard**
 - 💻 Developed **Ecommerce Apps, CRM Systems, Cloud-Native Apps**
 - 📜 MSc in **Big Data & Data Science** | Focus: **Real Estate & Property Tech**
